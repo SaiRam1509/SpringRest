@@ -23,7 +23,7 @@ import com.shopable.service.DisplayProducts;
 import com.shopable.service.Shopping;
 import com.shopable.service.VerifyCredentials;
 import com.shopable.service.Wallet;
-
+//controller class
 @Controller
 public class AppController {
 	@Autowired
