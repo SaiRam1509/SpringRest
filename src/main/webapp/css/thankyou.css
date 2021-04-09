@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+button{
+	text-transform: uppercase;
+	outline: 0;
+	border-radius: 10px;
+	background:#00ff00;
+	width: 40%;
+	border: 0;
+	padding: 15px;
+	color: #FFFFFF;
+	font-size: 14px;
+	cursor: pointer;
+	text-align:center;
+}
+h1{
+	text-align:center;
+	color:#990000;
+}
+dic{
+	text-align:center;
+}
+body{
+	
+	background-image:url("/images/thankyou.jpg");
+	
+}

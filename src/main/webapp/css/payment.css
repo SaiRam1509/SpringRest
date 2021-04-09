@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+
+
+.content-table{
+	border-collapse:collapse;
+	margin:25px 0;
+	font-size:0.9em;
+	min-width:40px;
+	border-radius:5px 5px 0 0;
+	overflow:hidden;
+	 position: relative;
+    
+    
+    padding: 0;
+    width: 100%;
+    height: auto;
+    
+    text-align: center;
+}
+body{
+	background-image:url("/images/payment.jpg");
+}
+
+.content-table tr{
+	background-color:#000000;
+	color:#ffffff;
+	
+	font-weight:bold
+	
+}
+.content-table th,
+.content-table tr{
+padding:12px 15px;	
+}
+button{
+	text-transform: uppercase;
+	outline: 0;
+	border-radius: 10px;
+	background:#00ff00;
+	width: 20%;
+	border: 0;
+	padding: 15px;
+	color: #FFFFFF;
+	font-size: 14px;
+	cursor: pointer;
+	text-align:center;
+}
